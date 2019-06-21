@@ -1,3 +1,3 @@
 # dados
 
-CopyRight Quim Aymerich
+## Preyecto de daos tirados al azar
