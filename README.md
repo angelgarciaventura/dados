@@ -1,3 +1,3 @@
 # dados
 
-## Preyecto de daos tirados al azar
+## Preyecto de dados tirados al azar
