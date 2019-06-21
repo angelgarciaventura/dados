@@ -3,6 +3,6 @@
 ## Preyecto de daos tirados al azar
 
 ### Reglas del Juego
-  Apretar el botÃ³n para inciar el juego.
+  Apretar el botón para inciar el juego.
 
 CopyRight &copy Quim
